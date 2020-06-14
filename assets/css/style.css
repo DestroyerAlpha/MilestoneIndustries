@@ -3458,8 +3458,8 @@ hero-btn {
 
 .header-area .topSearch{
   position: relative;
-  right: 60px;
-  width: 400px;
+  right: 20px;
+  width: 435px;
   border-radius: 6px;
   height: 35px;
   text-align: center;
@@ -3485,7 +3485,7 @@ hero-btn {
 
 .header-area .header-sticky.sticky-bar .topSearch{
   position: relative;
-  right: 60px;
+  right: 20px;
   width: 235px;
   border-radius: 6px;
   height: 35px;
