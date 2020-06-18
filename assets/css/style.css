@@ -5600,12 +5600,11 @@ hero-btn {
     font-size: 14px;
 }
 
-/* line 1, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
-.testimonial-area {
-    background: #121212;
-    position: relative;
+.about-details .about-details-cap ul li{
+    color: #464d65;
+    font-size: 14px;
+    margin-left: 35px;
 }
-
 /* line 4, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
 .testimonial-area .testimonial-caption {
     padding-left: 80px;
