@@ -5989,7 +5989,7 @@ C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
 .footer-area .footer-top .single-footer-caption .sub-box .front-face,
 .footer-area .footer-top .single-footer-caption .sub-box .back-face {
     position: absolute;
-    width: 100%;
+    width: 70%;
     height: 10%;
     border-radius: 6px;
 }
@@ -6044,7 +6044,7 @@ C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
 }
 .footer-area .footer-top .single-footer-caption .sub-box .back-face button {
     position: relative;
-    top: 23%;
+    top: 20%;
     cursor: pointer;
     width: 25%;
     height: 50%;
